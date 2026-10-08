@@ -1,0 +1,9 @@
+[
+  {"input": "What is the refund window?", "expected_output": "Items can be returned within 30 days of delivery for a full refund."},
+  {"input": "How long does standard shipping take?", "expected_output": "Standard shipping takes 3-5 business days."},
+  {"input": "Is shipping free?", "expected_output": "Orders above $50 qualify for free standard shipping."},
+  {"input": "Does the warranty cover accidental damage?", "expected_output": "No, accidental damage is not covered by the 1-year warranty."},
+  {"input": "When is customer support available?", "expected_output": "Monday to Friday, 9 AM to 6 PM IST."},
+  {"input": "How do I reset my password?", "expected_output": "Click 'Forgot password' on the login page; a reset link valid for 24 hours is emailed."},
+  {"input": "Do you ship to Mars?", "expected_output": "The context does not say; the bot should say it doesn't know."}
+]

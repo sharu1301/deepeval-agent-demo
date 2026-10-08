@@ -1,0 +1,11 @@
+Refund policy: Items can be returned within 30 days of delivery for a full refund.
+Refund policy: Items must be unused and in original packaging.
+Refund policy: Refunds are processed in 5-7 business days.
+Shipping: Standard shipping takes 3-5 business days.
+Shipping: Express shipping takes 1-2 business days.
+Shipping: Orders above $50 qualify for free standard shipping.
+Warranty: All electronics carry a 1-year limited warranty covering manufacturing defects.
+Warranty: Accidental damage is not covered.
+Support hours: Customer support is available Monday to Friday, 9 AM to 6 PM IST, via chat and email at support@acmestore.example.
+Account: To reset your password, click 'Forgot password' on the login page.
+Account: A reset link is emailed and stays valid for 24 hours.

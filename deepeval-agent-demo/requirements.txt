@@ -1,0 +1,6 @@
+deepeval
+openai
+pydantic
+python-dotenv
+pytest
+mcp<2        # only needed for mcp_server.py (optional)
